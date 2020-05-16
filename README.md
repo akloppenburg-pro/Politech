@@ -1,3 +1,5 @@
+Note: this project was created as a final project for my CS Capstone course at OU. The text below is our complete documentation as it was turned in to our professor. Some parts of it may not be relevant anymore, simply ignore these.
+
 # Vision Document
 
 Poli-Tech AI Capstone Project
